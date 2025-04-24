@@ -31,8 +31,6 @@ The objective of this project is to analyze Diwali sales data to uncover insight
    - Derived actionable insights from the visualizations to understand customer behavior and preferences.
 
 ## Dashboard
-![Diwali Sales Analysis Chart](https://github.com/user-attachments/assets/6a24f7cd-a698-465f-8408-89e3337149ba)
-
 The analysis includes visualizations such as:
 - Gender distribution and sales comparison.
 - Age group analysis by sales and orders.

@@ -5,8 +5,7 @@
 The objective of this project is to analyze Diwali sales data to uncover insights about customer demographics, purchasing behavior, and product trends. These insights can help businesses tailor their marketing strategies and improve sales performance in future festive seasons.
 
 ## Dataset Used
-- The dataset used for this analysis is
- - <a href="https://github.com/Pritha27-Contain/Vrinda-Store-Data-Visualization-with-excel/blob/main/Project%20About%20Vrinda%20Store%20Analysis.xlsx">Dataset</a>
+- The dataset used for this analysis is- <a href="https://github.com/Pritha27-Contain/Python-Diwali-Sales-Analysis/blob/main/Diwali%20Sales%20Data.csv">Dataset</a>
 
 ## Questions (KPIs)
 - What is the distribution of buyers by gender?

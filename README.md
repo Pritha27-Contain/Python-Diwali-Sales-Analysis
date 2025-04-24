@@ -1,5 +1,5 @@
 # Python-Diwali-Sales-Analysis
-# Diwali Sales Analysis
+
 
 ## Project Objective
 The objective of this project is to analyze Diwali sales data to uncover insights about customer demographics, purchasing behavior, and product trends. These insights can help businesses tailor their marketing strategies and improve sales performance in future festive seasons.

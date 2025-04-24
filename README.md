@@ -47,3 +47,4 @@ The analysis includes visualizations such as:
 
 ## Final Conclusion
 To improve sales during the Diwali season, businesses should focus on targeting married women aged 26-35 years residing in Uttar Pradesh, Maharashtra, and Karnataka. Marketing campaigns should emphasize products in the Food, Clothing, and Electronics categories. Personalized promotions and digital marketing strategies can help capture this key consumer segment effectively.
+##Thank You For Visit!
